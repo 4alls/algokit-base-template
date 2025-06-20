@@ -1,4 +1,4 @@
-# {{ project_name }}
+# AlgorandTransaction
 
 Welcome to your new AlgoKit project!
 
